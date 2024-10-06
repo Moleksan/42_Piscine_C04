@@ -41,17 +41,5 @@ Learnings: Parsing strings and managing integer conversion, including whitespace
 
 # Conclusion  
 
-The C Piscine C 04 project has been an essential step in developing foundational skills in C programming, specifically in string   manipulation and numerical representation. Throughout the exercises, several key concepts were reinforced:  
-  
-String Operations: Implementing functions like ft_strlen, ft_putstr, and ft_atoi provided a deeper understanding of string handling in C.  The ability to count characters, display strings, and convert strings to integers is crucial in many programming scenarios.  
-  
-Integer Representation: The ft_putnbr and ft_putnbr_base exercises taught us how to display integers, including handling edge cases like   negative numbers and varying numeral systems. This knowledge is fundamental for creating user-friendly outputs in applications.  
-  
-Numerical Base Conversion: The ft_atoi_base function required us to consider different base systems, enhancing our understanding of how   numbers can be represented and interpreted in various formats. This is particularly relevant in fields like cryptography, data encoding, and  networking.  
-  
-Error Handling: Throughout the project, we encountered situations that required us to validate inputs and handle errors gracefully. Learning  to identify and manage invalid inputs is a vital skill in creating robust and reliable software.  
-  
-Automated Evaluation: The use of the Moulinette program for evaluation emphasized the importance of following coding standards and best  practices. Adhering to the Norm helped improve code readability and maintainability.  
-  
-In summary, the C Piscine C 04 project not only solidified our understanding of string and integer manipulation in C but also prepared us   for more advanced topics in programming. The skills acquired here will be invaluable in future projects and real-world applications,   reinforcing the importance of meticulous coding and problem-solving abilities.  
+The C Piscine C 04 project has been important for learning basic C programming skills, especially in working with strings and numbers. We learned how to count characters and change strings into numbers using functions like ft_strlen, ft_putstr, and ft_atoi. We also practiced showing numbers and changing them into different number systems with ft_putnbr_base. We focused on checking for errors and making sure our code works well. Using Moulinette for evaluation showed us how important it is to follow coding standards, helping us get ready for more advanced programming tasks.  
   
